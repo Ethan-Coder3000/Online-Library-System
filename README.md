@@ -25,7 +25,7 @@
 
 ```bash 
   # Clone the repository
- https://github.com/FeziweMelvin/Online-Library-System.git
+ https://github.com/Ethan-Coder3000/Online-Library-System.git
 ```
 
 ```bash 
